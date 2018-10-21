@@ -1,0 +1,15 @@
+{
+  "name": "cheese",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Alireza29675/Cheese.git",
+  "author": "Alireza Sheikholmolouki",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.0",
+    "is-url": "^1.2.4"
+  }
+}
